@@ -1,6 +1,7 @@
 **Hi hello..**
 
-***Current working on*** **=>** _nothing_
+***Current working on:*** \
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flicker211&repo=bread-api&theme=dark)](https://github.com/flicker211/bread-api)
 
 ***Lastest project:*** \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russian-Dev&repo=UTubeToMP&theme=dark)](https://github.com/Russian-Dev/UTubeToMP)
