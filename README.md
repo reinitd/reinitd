@@ -1,7 +1,7 @@
 **Hi hello..**
 
 ***Current working on:*** \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russian-Dev&repo=active-alert&theme=dark)](https://github.com/Russian-Dev/active-alerts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russian-Dev&repo=active-alerts&theme=dark)](https://github.com/Russian-Dev/active-alerts)
 
 ***Last project:*** \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russian-Dev&repo=UTubeToMP&theme=dark)](https://github.com/Russian-Dev/UTubeToMP)
