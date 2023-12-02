@@ -36,21 +36,21 @@ def main() -> None:
     myself = Me(
         name="QAEZZ", website="https://qaezz.dev",
         organization="https://thcotd.org",
-        languages=["python", "c sharp", "javascript"])
+        languages=["python", "c sharp (learning)", "javascript"])
     print(myself)
 
 if __name__ == "__main__":
     main()
-
-
-# Me(
-#     name='QAEZZ',
-#     website='https://qaezz.dev',
-#     organization='https://thcotd.org',
-#     languages=[
-#         'python',
-#         'c sharp',
-#         'javascript'],
-#     gh_user_id=65181690
-# )
+```
+```
+Me(
+    name='QAEZZ',
+    website='https://qaezz.dev',
+    organization='https://thcotd.org',
+    languages=[
+        'python',
+        'c sharp (learning)',
+        'javascript'],
+    gh_user_id=65181690
+)
 ```
