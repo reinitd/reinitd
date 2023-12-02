@@ -33,7 +33,10 @@ class Me:
 
 
 def main() -> None:
-    myself = Me(name="QAEZZ", website="https://qaezz.dev", organization="https://thcotd.org", languages=["python", "c sharp", "javascript"])
+    myself = Me(
+        name="QAEZZ", website="https://qaezz.dev",
+        organization="https://thcotd.org",
+        languages=["python", "c sharp", "javascript"])
     print(myself)
 
 if __name__ == "__main__":
