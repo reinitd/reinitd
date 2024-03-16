@@ -42,7 +42,7 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
-```
+```py
 Me(
     name='QAEZZ',
     website='https://qaezz.dev',
