@@ -21,7 +21,7 @@
 ```
 ```py
 Me(
-    name='QAEZZ',
+    name='reinitd',
     website='https://qaezz.dev',
     organization='https://thcotd.org',
     languages=[
