@@ -25,9 +25,11 @@ Me(
     website='https://qaezz.dev',
     organization='https://thcotd.org',
     languages=[
+        'c sharp',
         'python',
-        'c sharp (learning)',
-        'javascript'],
+        'ts/js',
+        'elixir (learning)',
+        'zig (learning)],
     gh_user_id=65181690
 )
 ```
