@@ -29,7 +29,7 @@ Me(
         'python',
         'ts/js',
         'elixir (learning)',
-        'zig (learning)],
+        'zig (learning)]',
     gh_user_id=65181690
 )
 ```
