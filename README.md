@@ -22,7 +22,7 @@
 ```py
 Me(
     name='reinitd',
-    website='https://qaezz.dev',
+    website='domain expired. new website eventually',
     organization='https://thcotd.org',
     languages=[
         'c sharp',
