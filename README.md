@@ -28,8 +28,9 @@ Me(
         'c sharp',
         'python',
         'ts/js',
-        'elixir (learning)',
-        'zig (learning)]',
+        'flux (kvthweatt/Flux)',
+        'elixir (learning)'
+    ],
     gh_user_id=65181690
 )
 ```
